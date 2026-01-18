@@ -1,7 +1,7 @@
 # 获取脚本的绝对路径（包括脚本名）
 SCRIPT_PATH="$(realpath "$0")"
 
-YUANWEI_ZHI="$(dirname "$SCRIPT_PATH")"
+YIANWEI_ZHI="$(dirname "$SCRIPT_PATH")"
 
 UBUNTU_ROOT="/data/data/com.termux/files/usr/var/lib/proot-distro/installed-rootfs/ubuntu/root"
 
